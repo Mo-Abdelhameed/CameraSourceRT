@@ -133,6 +133,9 @@ dmypy.json
 datasets/vision/Vision_data/test/*
 datasets/vision/Vision_data/train/*
 datasets/vision/Vision_data/validation/*
+jupyter/vision/Vision_data/test/*
+jupyter/vision/Vision_data/train/*
+jupyter/vision/Vision_data/validation/*
 output/data_characteristics/*.pdf
 output/image_output
 output/*.pth
