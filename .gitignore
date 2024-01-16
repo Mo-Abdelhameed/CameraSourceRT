@@ -130,12 +130,9 @@ dmypy.json
 .ssh/
 
 # static data files not synced with the repo
-datasets/vision/Vision_data/test/*
-datasets/vision/Vision_data/train/*
-datasets/vision/Vision_data/validation/*
-jupyter/Vision_data/test/*
-jupyter/Vision_data/train/*
-jupyter/Vision_data/validation/*
+datasets/Vision_data/test/*
+datasets/Vision_data/train/*
+datasets/Vision_data/validation/*
 output/data_characteristics/*.pdf
 output/image_output
 output/*.pth
