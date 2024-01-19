@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 from tqdm import tqdm  # Import tqdm for progress bars
 
 # Configure logging
-logging.basicConfig(filename='training.log', level=logging.INFO,
+logging.basicConfig(filename='../logs/training.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s: %(message)s')
 
 
