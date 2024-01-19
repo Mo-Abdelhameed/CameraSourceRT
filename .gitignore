@@ -140,3 +140,8 @@ output/*.pth
 .RData
 .Rhistory
 **.pth
+
+.DS_Store
+._.DS_Store
+
+raw_data/
